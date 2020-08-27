@@ -1,0 +1,53 @@
+body{
+    font-family: sans-serif, monospace;
+    background: #fffc34;
+    font-size: 1.3em;
+}
+
+.container{
+    padding: 4em;
+    margin: auto;
+    width: 40%;
+    text-align: center;
+    
+
+}
+
+#input{
+    width: 100%;
+}
+
+#inputField{
+    font-size: 1.1em;
+    text-align: left;
+    border-radius: 1em;
+    width: 80%;
+    border: 0px;
+    padding: 0.4em 1em;
+    outline: none;
+}
+#addToDo{
+    font-size: 1.1em;
+    border-radius: 1em;
+    border: 0px;
+    outline: medium;
+    margin: 0em 1em;
+}  
+#toDoContainer{
+    padding-left: 2em;
+    text-align: left;
+
+}
+
+#task{
+    cursor: pointer;
+}
+
+.tutorial{
+    padding: 3em;
+}
+
+.tutorial p{
+    text-align: center;
+    color: #666;
+}
