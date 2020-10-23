@@ -1,4 +1,3 @@
-# [to-do list (just js)](https://maximosantoro.github.io/js-to-do/)
+# [to-do list (just js)](https://maximop2p.github.io/js-to-do/)
 a simple js to-do list app.
 
-check it here: https://maximosantoro.github.io/js-to-do/
